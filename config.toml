@@ -9,7 +9,7 @@ theme = [
   "fractal-forest", # OBSD
   "after-dark" # AGPL-3.0-or-later
 ]
-publishDir = "jmpinney.github.io"
+
 disableLiveReload = false # Optional, set true to disable live reload
 enableRobotsTXT = true # Suggested, enable robots.txt file
 sectionPagesMenu = "main" # Enable menu system for lazy bloggers
